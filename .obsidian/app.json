@@ -1,8 +1,8 @@
 {
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
   "showFrontmatter": false,
   "readableLineLength": false,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "foldHeading": true
 }

@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview WHERE сложность 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "231a48212a6d71db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview SORT сложность ASC.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a38543c71e86313e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview GROUP BY сложность.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5512c3276f9225d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e400ac66975010ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 474
   },
   "right": {
     "id": "9f1307476e62f8a0",
@@ -147,17 +196,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "562017c7afbc0c2d",
+  "active": "e400ac66975010ce",
   "lastOpenFiles": [
-    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview GROUP BY сложность.md",
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview GROUP BY сложность 1 WHERE completed.md",
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview SORT сложность ASC.md",
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview WHERE сложность 1.md",
+    "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
     "2. Obsidian + Dataview - Задачи/Проекты/Собрать Альянс Ангелов.md",
     "2. Obsidian + Dataview - Задачи/Проекты/Построить все здания.md",
-    "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
     "1. Obsidian + Dataview - Таблицы/Dataview/Фильмы.md",
-    "1. Obsidian + Dataview - Таблицы/Фильмы/Властелин колец - Возвращение короля.md",
-    "Pasted image 20230116134924.png",
-    "Без названия.md",
-    "Pasted image 20230116133415.png",
-    "Pasted image 20230116133415.md"
+    "1. Obsidian + Dataview - Таблицы/Фильмы/Властелин колец - Возвращение короля.md"
   ]
 }
