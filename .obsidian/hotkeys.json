@@ -8,30 +8,6 @@
     }
   ],
   "editor:open-link-in-new-leaf": [],
-  "quickadd:choice:3117c436-48fa-4deb-b48d-019dec152b04": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
-    }
-  ],
-  "quickadd:choice:f3746853-4b0b-4b06-a17a-98e9b0d5fc64": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
-  "quickadd:choice:3c6f0a20-8aa4-4254-9b1e-71dc5f1ff6fd": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "F"
-    }
-  ],
   "quickadd:choice:1d7dcfda-129b-473e-811a-fd26f8874ef9": [
     {
       "modifiers": [
@@ -46,14 +22,6 @@
         "Alt"
       ],
       "key": "2"
-    }
-  ],
-  "quickadd:choice:f47dccea-01db-4dd9-88dd-31bd234b4040": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
     }
   ],
   "obsidian-git:commit": [
@@ -77,5 +45,54 @@
       "modifiers": [],
       "key": "F3"
     }
-  ]
+  ],
+  "quickadd:choice:f3746853-4b0b-4b06-a17a-98e9b0d5fc64": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:3117c436-48fa-4deb-b48d-019dec152b04": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:3c6f0a20-8aa4-4254-9b1e-71dc5f1ff6fd": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "quickadd:choice:f47dccea-01db-4dd9-88dd-31bd234b4040": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "quickadd:choice:58d5e2f1-46d3-44b3-9e7b-d94906a6701d": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": []
 }
