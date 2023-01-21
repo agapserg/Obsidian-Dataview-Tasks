@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
-                "mode": "preview",
-                "source": true
+                "file": "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
+                "file": "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
+                "file": "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md"
+                "file": "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "562017c7afbc0c2d",
   "lastOpenFiles": [
+    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
     "2. Obsidian + Dataview - Задачи/Проекты/Собрать Альянс Ангелов.md",
     "2. Obsidian + Dataview - Задачи/Проекты/Построить все здания.md",
     "2. Obsidian + Dataview - Задачи/Проекты/Нанять всех юнитов.md",
-    "2. Obsidian + Dataview - Задачи/Dataview/Заметка c Dataview.md",
     "1. Obsidian + Dataview - Таблицы/Dataview/Фильмы.md",
     "1. Obsidian + Dataview - Таблицы/Фильмы/Властелин колец - Возвращение короля.md",
     "Pasted image 20230116134924.png",
