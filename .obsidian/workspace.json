@@ -11,32 +11,11 @@
             "id": "a494c4877a03362b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Проекты/Модок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebff74afbbb01863",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "21e6a0ab8d0a1e96",
-            "type": "leaf",
-            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,15 +149,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21e6a0ab8d0a1e96",
+  "active": "a494c4877a03362b",
   "lastOpenFiles": [
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Проекты/Модок.md",
     "2. Obsidian + Dataview - Задачи/4 - Добавляем периодические задачи/Проекты/Выиграть бой.md",
     "2. Obsidian + Dataview - Задачи/4 - Добавляем периодические задачи/Daily Notes/2023-01-21.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Daily Notes/2023-01-21.md",
     "2. Obsidian + Dataview - Задачи/4 - Добавляем периодические задачи/Проекты/Обыскать локацию.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Daily Notes/2023-01-22.md",
-    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
-    "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Проекты/Модок.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем календарь, отбираем задачи на любой день/Template/Daily Note.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи предстоящие + группировка по дате и проекту.md"
