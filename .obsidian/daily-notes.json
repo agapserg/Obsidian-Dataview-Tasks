@@ -1,3 +1,5 @@
 {
-  "format": "YY-MM-DD"
+  "format": "YYYY-MM-DD",
+  "template": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Template/Daily Note",
+  "folder": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes"
 }

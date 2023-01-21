@@ -3,5 +3,8 @@
   "obsidian-minimal-settings",
   "obsidian-sortable",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "calendar",
+  "templater-obsidian"
 ]

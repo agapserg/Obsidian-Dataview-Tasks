@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2d8487dbb747d3",
+        "id": "6aa441fae9f292b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7047986c7c3ef9e6",
+            "id": "7b21709c5d5b0236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Проекты/Арройо.md",
+                "file": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f456a30f42bdd1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview GROUP BY сложность.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "23acc913f0fb8edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи на сегодня и просроченные.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d096e79fd40d2bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "154ae4b7f3133f19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md",
+                "file": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md",
+                "file": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md"
+                "file": "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md"
               }
             }
+          },
+          {
+            "id": "ba0f86643268be6b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,20 +152,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "workspaces:Пространства": false
+      "workspaces:Пространства": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "154ae4b7f3133f19",
+  "active": "7b21709c5d5b0236",
   "lastOpenFiles": [
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие + доп группировка.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи предстоящие.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Проекты/Кламат.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Проекты/Арройо.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр дата/Dataview/Задачи на сегодня и просроченные.md",
-    "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview GROUP BY сложность.md",
-    "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview WHERE сложность 1.md",
-    "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview SORT сложность ASC.md",
-    "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview GROUP BY сложность 1 WHERE completed.md",
-    "2. Obsidian + Dataview - Задачи/1 - Добавляем параметр сложность/Dataview/Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md"
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-28.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-22.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-21.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Проекты/Гекко.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Проекты/Модок.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Template/Daily Note.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-23.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-24.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-31.md",
+    "2. Obsidian + Dataview - Задачи/3 - Dataview + Calendar + Templater/Daily Notes/2023-01-30.md"
   ]
 }
