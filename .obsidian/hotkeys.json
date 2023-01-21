@@ -71,5 +71,11 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }
