@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
-                "mode": "preview",
+                "file": "2. Obsidian + Dataview - Задачи/4 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
+                "file": "2. Obsidian + Dataview - Задачи/4 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
+                "file": "2. Obsidian + Dataview - Задачи/4 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md"
+                "file": "2. Obsidian + Dataview - Задачи/4 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "8988dd2d5f2f5c73",
   "lastOpenFiles": [
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи предстоящие.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи предстоящие + группировка по дате и проекту.md",
-    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
     "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Проекты/Кламат.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/4 - Заметка c Dataview GROUP BY сложность 1 WHERE completed.md",
