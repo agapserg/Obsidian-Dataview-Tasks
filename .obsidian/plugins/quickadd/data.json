@@ -1,7 +1,7 @@
 {
   "choices": [
     {
-      "id": "f3746853-4b0b-4b06-a17a-98e9b0d5fc64",
+      "id": "e6e7cefb-ffd3-45ee-afe2-06f4c8004869",
       "name": "Сегодня",
       "type": "Capture",
       "command": true,
@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [Дата:: {{DATE}}],"
+        "format": " [Дата:: {{DATE}}],"
       },
       "insertAfter": {
         "enabled": false,
@@ -35,7 +35,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "3117c436-48fa-4deb-b48d-019dec152b04",
+      "id": "19b48d06-c379-4448-ab80-f4e2fc08eb9c",
       "name": "Завтра",
       "type": "Capture",
       "command": true,
@@ -49,7 +49,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [Дата:: {{DATE:yyyy-MM-DD+1}}],"
+        "format": " [Дата:: {{DATE:yyyy-MM-DD+1}}],"
       },
       "insertAfter": {
         "enabled": false,
@@ -69,7 +69,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "3c6f0a20-8aa4-4254-9b1e-71dc5f1ff6fd",
+      "id": "cd095a02-1704-41c1-a671-cb9ccc5a98fa",
       "name": "Через неделю",
       "type": "Capture",
       "command": true,
@@ -83,7 +83,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [s:: {{DATE:yyyy-MM-DD+7}}],"
+        "format": " [Дата:: {{DATE:yyyy-MM-DD+7}}],"
       },
       "insertAfter": {
         "enabled": false,
@@ -103,7 +103,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "1d7dcfda-129b-473e-811a-fd26f8874ef9",
+      "id": "b5e9290e-e364-4963-b7d5-d7e66217fb68",
       "name": "Сложность 1",
       "type": "Capture",
       "command": true,
@@ -117,7 +117,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [сложность:: 1]"
+        "format": " [сложность:: 1],"
       },
       "insertAfter": {
         "enabled": false,
@@ -137,7 +137,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "18719506-eaa3-4596-98ad-9406a1d396ce",
+      "id": "fc56cc1b-2913-42be-94d6-e9fb8b25eb12",
       "name": "Сложность 2",
       "type": "Capture",
       "command": true,
@@ -151,7 +151,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [сложность:: 2]"
+        "format": " [сложность:: 2],"
       },
       "insertAfter": {
         "enabled": false,
@@ -171,7 +171,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "f47dccea-01db-4dd9-88dd-31bd234b4040",
+      "id": "3062f151-1cc5-4e25-ac8c-b44e28db4c2d",
       "name": "Сложность 3",
       "type": "Capture",
       "command": true,
@@ -185,41 +185,7 @@
       },
       "format": {
         "enabled": true,
-        "format": ", [сложность:: 3]"
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "58d5e2f1-46d3-44b3-9e7b-d94906a6701d",
-      "name": "Период.",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": ", [период:: 🔁],"
+        "format": " [сложность:: 3],"
       },
       "insertAfter": {
         "enabled": false,

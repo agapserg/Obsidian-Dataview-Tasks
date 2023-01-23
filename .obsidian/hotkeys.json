@@ -94,5 +94,53 @@
       "key": "R"
     }
   ],
-  "templater-obsidian:replace-in-file-templater": []
+  "templater-obsidian:replace-in-file-templater": [],
+  "quickadd:choice:19b48d06-c379-4448-ab80-f4e2fc08eb9c": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:e6e7cefb-ffd3-45ee-afe2-06f4c8004869": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:cd095a02-1704-41c1-a671-cb9ccc5a98fa": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "quickadd:choice:b5e9290e-e364-4963-b7d5-d7e66217fb68": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "quickadd:choice:fc56cc1b-2913-42be-94d6-e9fb8b25eb12": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "quickadd:choice:3062f151-1cc5-4e25-ac8c-b44e28db4c2d": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ]
 }
