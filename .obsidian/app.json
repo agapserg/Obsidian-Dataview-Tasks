@@ -3,6 +3,6 @@
   "promptDelete": false,
   "showFrontmatter": false,
   "readableLineLength": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "foldHeading": true
 }
