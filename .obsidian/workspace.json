@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d56a87e983a268cb",
-        "type": "split",
+        "id": "55432ff15fa01d43",
+        "type": "tabs",
         "children": [
           {
-            "id": "55432ff15fa01d43",
-            "type": "tabs",
-            "dimension": 26.348039215686274,
-            "children": [
-              {
-                "id": "8988dd2d5f2f5c73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "8988dd2d5f2f5c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
+                "mode": "preview",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "6c7ab0ba082f3761",
-            "type": "tabs",
-            "dimension": 73.65196078431373,
-            "children": [
-              {
-                "id": "fbeafb197334687b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
+                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
+                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md"
+                "file": "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md"
               }
             }
           },
@@ -186,15 +159,15 @@
   },
   "active": "8988dd2d5f2f5c73",
   "lastOpenFiles": [
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/4 - Заметка c Dataview GROUP BY сложность 1 WHERE completed.md",
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи предстоящие.md",
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи предстоящие + группировка по дате и проекту.md",
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Dataview/Задачи на сегодня и просроченные.md",
+    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Проекты/Кламат.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/5 - Заметка c Dataview GROUP BY сложность 1 WHERE !completed.md",
+    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/4 - Заметка c Dataview GROUP BY сложность 1 WHERE completed.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Проекты/Гекко.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/1 - Заметка c Dataview WHERE сложность 1.md",
     "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/3 - Заметка c Dataview SORT сложность ASC.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/2 - Заметка c Dataview GROUP BY сложность.md",
-    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Проекты/Арройо.md",
-    "2. Obsidian + Dataview - Задачи/3 - Добавляем параметр дата, отбираем задачи на сегодня/Проекты/Кламат.md",
-    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Проекты/Модок.md",
-    "2. Obsidian + Dataview - Задачи/4 - Добавляем календарь, отбираем задачи на любой день/Проекты/Гекко.md"
+    "2. Obsidian + Dataview - Задачи/2 - Добавляем параметр сложность/Dataview/2 - Заметка c Dataview GROUP BY сложность.md"
   ]
 }
